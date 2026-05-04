@@ -1,16 +1,62 @@
-## Hi there 👋
+# TORA Concept
+A technical & philosophical thought experiment
 
-<!--
-**tora-concept/TORA-Concept** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+TORA Concept は、
+「価値とは何か」「担保とは何か」「評価とはどこで決まるのか」
+という素朴な問いから始まった、
+小さな技術的・思想的プロトタイプです。
 
-Here are some ideas to get you started:
+このリポジトリは、
+発行・運用・勧誘・投資行為を目的としたものではありません。
+単なる “世界に置かれた実験的テキスト” です。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 1. Overview
+TORA Concept は、
+“Value_A × 0.1” という単純な内部ロジックを用いた
+抽象的な「担保的構造のモデル」を提示します。
+
+ここで扱う Value_A は、
+特定の資産を指すものではなく、
+「価値をどう扱うか」という思考実験上の変数です。
+
+0.1 という係数は、
+歴史的な金銀比の一例を参照したものであり、
+価格保証や裏付けを意味しません。
+
+## 2. Philosophy
+TORA Concept の中心にあるのは、
+「価値の評価は世界に委ねられるべき」
+という考え方です。
+
+- 過度な説明をしない
+- 善悪や正義を語らない
+- 投資的な文脈を避ける
+- 世界に置き、世界に判断させる
+
+という姿勢を取ります。
+
+## 3. Structure
+このリポジトリには以下が含まれます：
+
+- README（この文書）
+- LICENSE（MIT）
+- docs/（内部ロジック・設計思想などを置く予定の領域）
+
+すべては透明性・簡潔性・安全性を重視して構成されています。
+
+## 4. Legal Notes
+- 本リポジトリは思想実験であり、
+  金融商品・暗号資産の提供、勧誘、販売、投資助言を目的としません。
+- ここに記載された内容は、
+  価格・価値・裏付け・利益を保証するものではありません。
+- 係数・変数・モデルは、
+  技術的・哲学的な例示に過ぎません。
+
+## 5. Closing
+TORA Concept は、
+「世界に置いてみる」
+という一点だけを目的とした、
+静かなプロトタイプです。
+
+評価も、解釈も、意味づけも、
+すべて世界に委ねられています。
